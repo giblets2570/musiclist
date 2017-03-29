@@ -1,0 +1,2502 @@
+{
+  "album_1": {
+    "rank": 1,
+    "album": "Sgt. Pepper's Lonely Hearts Club Band",
+    "artist": "The Beatles"
+  },
+  "album_2": {
+    "rank": 2,
+    "album": "Pet Sounds",
+    "artist": "The Beach Boys"
+  },
+  "album_3": {
+    "rank": 3,
+    "album": "Revolver",
+    "artist": "The Beatles"
+  },
+  "album_4": {
+    "rank": 4,
+    "album": "Highway 61 Revisited",
+    "artist": "Bob Dylan"
+  },
+  "album_5": {
+    "rank": 5,
+    "album": "Rubber Soul",
+    "artist": "The Beatles"
+  },
+  "album_6": {
+    "rank": 6,
+    "album": "What's Going On",
+    "artist": "Marvin Gaye"
+  },
+  "album_7": {
+    "rank": 7,
+    "album": "Exile on Main Street",
+    "artist": "The Rolling Stones"
+  },
+  "album_8": {
+    "rank": 8,
+    "album": "London Calling",
+    "artist": "The Clash"
+  },
+  "album_9": {
+    "rank": 9,
+    "album": "Blonde on Blonde",
+    "artist": "Bob Dylan"
+  },
+  "album_10": {
+    "rank": 10,
+    "album": "The Beatles (\"The White Album\")",
+    "artist": "The Beatles"
+  },
+  "album_11": {
+    "rank": 11,
+    "album": "The Sun Sessions",
+    "artist": "Elvis Presley"
+  },
+  "album_12": {
+    "rank": 12,
+    "album": "Kind of Blue",
+    "artist": "Miles Davis"
+  },
+  "album_13": {
+    "rank": 13,
+    "album": "Velvet Underground and Nico",
+    "artist": "The Velvet Underground"
+  },
+  "album_14": {
+    "rank": 14,
+    "album": "Abbey Road",
+    "artist": "The Beatles"
+  },
+  "album_15": {
+    "rank": 15,
+    "album": "Are You Experienced?",
+    "artist": "The Jimi Hendrix Experience"
+  },
+  "album_16": {
+    "rank": 16,
+    "album": "Blood on the Tracks",
+    "artist": "Bob Dylan"
+  },
+  "album_17": {
+    "rank": 17,
+    "album": "Nevermind",
+    "artist": "Nirvana"
+  },
+  "album_18": {
+    "rank": 18,
+    "album": "Born to Run",
+    "artist": "Bruce Springsteen"
+  },
+  "album_19": {
+    "rank": 19,
+    "album": "Astral Weeks",
+    "artist": "Van Morrison"
+  },
+  "album_20": {
+    "rank": 20,
+    "album": "Thriller",
+    "artist": "Michael Jackson"
+  },
+  "album_21": {
+    "rank": 21,
+    "album": "The Great Twenty-Eight",
+    "artist": "Chuck Berry"
+  },
+  "album_22": {
+    "rank": 22,
+    "album": "Plastic Ono Band",
+    "artist": "John Lennon"
+  },
+  "album_23": {
+    "rank": 23,
+    "album": "Innervisions",
+    "artist": "Stevie Wonder"
+  },
+  "album_24": {
+    "rank": 24,
+    "album": "Live at the Apollo (1963)",
+    "artist": "James Brown"
+  },
+  "album_25": {
+    "rank": 25,
+    "album": "Rumours",
+    "artist": "Fleetwood Mac"
+  },
+  "album_26": {
+    "rank": 26,
+    "album": "The Joshua Tree",
+    "artist": "U2"
+  },
+  "album_27": {
+    "rank": 27,
+    "album": "King of the Delta Blues Singers, Vol. 1",
+    "artist": "Robert Johnson"
+  },
+  "album_28": {
+    "rank": 28,
+    "album": "Who's Next",
+    "artist": "The Who"
+  },
+  "album_29": {
+    "rank": 29,
+    "album": "Led Zeppelin",
+    "artist": "Led Zeppelin"
+  },
+  "album_30": {
+    "rank": 30,
+    "album": "Blue",
+    "artist": "Joni Mitchell"
+  },
+  "album_31": {
+    "rank": 31,
+    "album": "Bringing It All Back Home",
+    "artist": "Bob Dylan"
+  },
+  "album_32": {
+    "rank": 32,
+    "album": "Let It Bleed",
+    "artist": "The Rolling Stones"
+  },
+  "album_33": {
+    "rank": 33,
+    "album": "Ramones",
+    "artist": "Ramones"
+  },
+  "album_34": {
+    "rank": 34,
+    "album": "Music From Big Pink",
+    "artist": "The Band"
+  },
+  "album_35": {
+    "rank": 35,
+    "album": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars",
+    "artist": "David Bowie"
+  },
+  "album_36": {
+    "rank": 36,
+    "album": "Tapestry",
+    "artist": "Carole King"
+  },
+  "album_37": {
+    "rank": 37,
+    "album": "Hotel California",
+    "artist": "The Eagles"
+  },
+  "album_38": {
+    "rank": 38,
+    "album": "The Anthology, 1947 - 1972",
+    "artist": "Muddy Waters"
+  },
+  "album_39": {
+    "rank": 39,
+    "album": "Please Please Me",
+    "artist": "The Beatles"
+  },
+  "album_40": {
+    "rank": 40,
+    "album": "Forever Changes",
+    "artist": "Love"
+  },
+  "album_41": {
+    "rank": 41,
+    "album": "Never Mind the Bollocks, Here's the Sex Pistols",
+    "artist": "The Sex Pistols"
+  },
+  "album_42": {
+    "rank": 42,
+    "album": "The Doors",
+    "artist": "The Doors"
+  },
+  "album_43": {
+    "rank": 43,
+    "album": "The Dark Side of the Moon",
+    "artist": "Pink Floyd"
+  },
+  "album_44": {
+    "rank": 44,
+    "album": "Horses",
+    "artist": "Patti Smith"
+  },
+  "album_45": {
+    "rank": 45,
+    "album": "The Band",
+    "artist": "The Band"
+  },
+  "album_46": {
+    "rank": 46,
+    "album": "Legend",
+    "artist": "Bob Marley and the Wailers"
+  },
+  "album_47": {
+    "rank": 47,
+    "album": "A Love Supreme",
+    "artist": "John Coltrane"
+  },
+  "album_48": {
+    "rank": 48,
+    "album": "It Takes a Nation of Millions to Hold Us Back",
+    "artist": "Public Enemy "
+  },
+  "album_49": {
+    "rank": 49,
+    "album": "At Fillmore East",
+    "artist": "The Allman Brothers Band ***"
+  },
+  "album_50": {
+    "rank": 50,
+    "album": "Here's Little Richard",
+    "artist": "Little Richard ***"
+  },
+  "album_51": {
+    "rank": 51,
+    "album": "Bridge Over Troubled Water",
+    "artist": "Simon and Garfunkel"
+  },
+  "album_52": {
+    "rank": 52,
+    "album": "Greatest Hits",
+    "artist": "Al Green"
+  },
+  "album_53": {
+    "rank": 53,
+    "album": "The Birth of Soul: The Complete Atlantic Rhythm and Blues Recordings",
+    "artist": "1952 - 1959, Ray Charles"
+  },
+  "album_54": {
+    "rank": 54,
+    "album": "Electric Ladyland",
+    "artist": "The Jimi Hendrix Experience"
+  },
+  "album_55": {
+    "rank": 55,
+    "album": "Elvis Presley",
+    "artist": "Elvis Presley"
+  },
+  "album_56": {
+    "rank": 56,
+    "album": "Songs in the Key of Life",
+    "artist": "Stevie Wonder"
+  },
+  "album_57": {
+    "rank": 57,
+    "album": "Beggars Banquet",
+    "artist": "The Rolling Stones"
+  },
+  "album_58": {
+    "rank": 58,
+    "album": "Trout Mask Replica",
+    "artist": "Captain Beefheart and His Magic Band"
+  },
+  "album_59": {
+    "rank": 59,
+    "album": "Meet the Beatles",
+    "artist": "The Beatles"
+  },
+  "album_60": {
+    "rank": 60,
+    "album": "Greatest Hits",
+    "artist": "Sly and the Family Stone"
+  },
+  "album_61": {
+    "rank": 61,
+    "album": "Appetite for Destruction",
+    "artist": "Guns n' Roses"
+  },
+  "album_62": {
+    "rank": 62,
+    "album": "Achtung Baby",
+    "artist": "U2"
+  },
+  "album_63": {
+    "rank": 63,
+    "album": "Sticky Fingers",
+    "artist": "The Rolling Stones"
+  },
+  "album_64": {
+    "rank": 64,
+    "album": "Phil Spector",
+    "artist": "Back to Mono (1958 - 1969), Various Artists"
+  },
+  "album_65": {
+    "rank": 65,
+    "album": "Moondance",
+    "artist": "Van Morrison"
+  },
+  "album_66": {
+    "rank": 66,
+    "album": "Led Zeppelin IV",
+    "artist": "Led Zeppelin"
+  },
+  "album_67": {
+    "rank": 67,
+    "album": "The Stranger",
+    "artist": "Billy Joel"
+  },
+  "album_68": {
+    "rank": 68,
+    "album": "Off the Wall",
+    "artist": "Michael Jackson"
+  },
+  "album_69": {
+    "rank": 69,
+    "album": "Superfly",
+    "artist": "Curtis Mayfield"
+  },
+  "album_70": {
+    "rank": 70,
+    "album": "Physical Graffiti",
+    "artist": "Led Zeppelin"
+  },
+  "album_71": {
+    "rank": 71,
+    "album": "After the Gold Rush",
+    "artist": "Neil Young"
+  },
+  "album_72": {
+    "rank": 72,
+    "album": "Purple Rain",
+    "artist": "Prince"
+  },
+  "album_73": {
+    "rank": 73,
+    "album": "Back in Black",
+    "artist": "AC/DC"
+  },
+  "album_74": {
+    "rank": 74,
+    "album": "Otis Blue",
+    "artist": "Otis Redding"
+  },
+  "album_75": {
+    "rank": 75,
+    "album": "Led Zeppelin II",
+    "artist": "Led Zeppelin"
+  },
+  "album_76": {
+    "rank": 76,
+    "album": "Imagine",
+    "artist": "John Lennon"
+  },
+  "album_77": {
+    "rank": 77,
+    "album": "The Clash",
+    "artist": "The Clash"
+  },
+  "album_78": {
+    "rank": 78,
+    "album": "Harvest",
+    "artist": "Neil Young"
+  },
+  "album_79": {
+    "rank": 79,
+    "album": "Star Time",
+    "artist": "James Brown"
+  },
+  "album_80": {
+    "rank": 80,
+    "album": "Odessey and Oracle",
+    "artist": "The Zombies"
+  },
+  "album_81": {
+    "rank": 81,
+    "album": "Graceland",
+    "artist": "Paul Simon"
+  },
+  "album_82": {
+    "rank": 82,
+    "album": "Axis: Bold as Love",
+    "artist": "The Jimi Hendrix Experience"
+  },
+  "album_83": {
+    "rank": 83,
+    "album": "I Never Loved a Man the Way I Love You",
+    "artist": "Aretha Franklin"
+  },
+  "album_84": {
+    "rank": 84,
+    "album": "Lady Soul",
+    "artist": "Aretha Franklin"
+  },
+  "album_85": {
+    "rank": 85,
+    "album": "Born in the U.S.A.",
+    "artist": "Bruce Springsteen"
+  },
+  "album_86": {
+    "rank": 86,
+    "album": "Let It Be",
+    "artist": "The Beatles"
+  },
+  "album_87": {
+    "rank": 87,
+    "album": "The Wall",
+    "artist": "Pink Floyd"
+  },
+  "album_88": {
+    "rank": 88,
+    "album": "At Folsom Prison",
+    "artist": "Johnny Cash"
+  },
+  "album_89": {
+    "rank": 89,
+    "album": "Dusty in Memphis",
+    "artist": "Dusty Springfield"
+  },
+  "album_90": {
+    "rank": 90,
+    "album": "Talking Book",
+    "artist": "Stevie Wonder"
+  },
+  "album_91": {
+    "rank": 91,
+    "album": "Goodbye Yellow Brick Road",
+    "artist": "Elton John"
+  },
+  "album_92": {
+    "rank": 92,
+    "album": "20 Golden Greats",
+    "artist": "Buddy Holly"
+  },
+  "album_93": {
+    "rank": 93,
+    "album": "Sign 'o' the Times",
+    "artist": "Prince"
+  },
+  "album_94": {
+    "rank": 94,
+    "album": "Bitches Brew",
+    "artist": "Miles Davis"
+  },
+  "album_95": {
+    "rank": 95,
+    "album": "Green River",
+    "artist": "Creedence Clearwater Revival"
+  },
+  "album_96": {
+    "rank": 96,
+    "album": "Tommy",
+    "artist": "The Who"
+  },
+  "album_97": {
+    "rank": 97,
+    "album": "The Freewheelin' Bob Dylan",
+    "artist": "Bob Dylan"
+  },
+  "album_98": {
+    "rank": 98,
+    "album": "This Year's Model",
+    "artist": "Elvis Costello"
+  },
+  "album_99": {
+    "rank": 99,
+    "album": "There's a Riot Goin' On",
+    "artist": "Sly and the Family Stone"
+  },
+  "album_100": {
+    "rank": 100,
+    "album": "In the Wee Small Hours",
+    "artist": "Frank Sinatra"
+  },
+  "album_101": {
+    "rank": 101,
+    "album": "Fresh Cream",
+    "artist": "Cream"
+  },
+  "album_102": {
+    "rank": 102,
+    "album": "Giant Steps",
+    "artist": "John Coltrane"
+  },
+  "album_103": {
+    "rank": 103,
+    "album": "Sweet Baby James",
+    "artist": "James Taylor"
+  },
+  "album_104": {
+    "rank": 104,
+    "album": "Modern Sounds in Country and Western Music",
+    "artist": "Ray Charles"
+  },
+  "album_105": {
+    "rank": 105,
+    "album": "Rocket to Russia",
+    "artist": "Ramones"
+  },
+  "album_106": {
+    "rank": 106,
+    "album": "Portrait of a Legend 1951 - 1964",
+    "artist": "Sam Cooke"
+  },
+  "album_107": {
+    "rank": 107,
+    "album": "Hunky Dory",
+    "artist": "David Bowie"
+  },
+  "album_108": {
+    "rank": 108,
+    "album": "Aftermath",
+    "artist": "The Rolling Stones"
+  },
+  "album_109": {
+    "rank": 109,
+    "album": "Loaded",
+    "artist": "The Velvet Underground"
+  },
+  "album_110": {
+    "rank": 110,
+    "album": "The Bends",
+    "artist": "Radiohead"
+  },
+  "album_111": {
+    "rank": 111,
+    "album": "Court and Spark",
+    "artist": "Joni Mitchell"
+  },
+  "album_112": {
+    "rank": 112,
+    "album": "Disraeli Gears",
+    "artist": "Cream"
+  },
+  "album_113": {
+    "rank": 113,
+    "album": "The Who Sell Out",
+    "artist": "The Who"
+  },
+  "album_114": {
+    "rank": 114,
+    "album": "Out of Our Heads",
+    "artist": "The Rolling Stones"
+  },
+  "album_115": {
+    "rank": 115,
+    "album": "Layla and Other Assorted Love Songs",
+    "artist": "Derek and the Dominos"
+  },
+  "album_116": {
+    "rank": 116,
+    "album": "At Last",
+    "artist": "Etta James"
+  },
+  "album_117": {
+    "rank": 117,
+    "album": "Sweetheart of the Rodeo ",
+    "artist": "The Byrds"
+  },
+  "album_118": {
+    "rank": 118,
+    "album": "Stand!",
+    "artist": "Sly and the Family Stone"
+  },
+  "album_119": {
+    "rank": 119,
+    "album": "The Harder They Come Original Soundtrack",
+    "artist": "Various Artists"
+  },
+  "album_120": {
+    "rank": 120,
+    "album": "Raising Hell",
+    "artist": "Run-DMC"
+  },
+  "album_121": {
+    "rank": 121,
+    "album": "Moby Grape",
+    "artist": "Moby Grape"
+  },
+  "album_122": {
+    "rank": 122,
+    "album": "Pearl",
+    "artist": "Janis Joplin"
+  },
+  "album_123": {
+    "rank": 123,
+    "album": "Catch a Fire",
+    "artist": "Bob Marley and the Wailers"
+  },
+  "album_124": {
+    "rank": 124,
+    "album": "Younger Than Yesterday",
+    "artist": "The Byrds"
+  },
+  "album_125": {
+    "rank": 125,
+    "album": "Raw Power",
+    "artist": "The Stooges"
+  },
+  "album_126": {
+    "rank": 126,
+    "album": "Remain in Light",
+    "artist": "Talking Heads"
+  },
+  "album_127": {
+    "rank": 127,
+    "album": "If You Can Believe Your Eyes and Ears",
+    "artist": "The Mamas and the Papas"
+  },
+  "album_128": {
+    "rank": 128,
+    "album": "Marquee Moon",
+    "artist": "Television"
+  },
+  "album_129": {
+    "rank": 129,
+    "album": "40 Greatest Hits",
+    "artist": "Hank Williams"
+  },
+  "album_130": {
+    "rank": 130,
+    "album": "Paranoid",
+    "artist": "Black Sabbath"
+  },
+  "album_131": {
+    "rank": 131,
+    "album": "Saturday Night Fever",
+    "artist": "Various Artists"
+  },
+  "album_132": {
+    "rank": 132,
+    "album": "The Wild",
+    "artist": "the Innocent and the E Street Shuffle, Bruce Springsteen"
+  },
+  "album_133": {
+    "rank": 133,
+    "album": "Ready to Die",
+    "artist": "The Notorious B.I.G."
+  },
+  "album_134": {
+    "rank": 134,
+    "album": "Slanted and Enchanted",
+    "artist": "Pavement"
+  },
+  "album_135": {
+    "rank": 135,
+    "album": "Greatest Hits",
+    "artist": "Elton John"
+  },
+  "album_136": {
+    "rank": 136,
+    "album": "Tim",
+    "artist": "The Replacements"
+  },
+  "album_137": {
+    "rank": 137,
+    "album": "The Chronic",
+    "artist": "Dr. Dre"
+  },
+  "album_138": {
+    "rank": 138,
+    "album": "Rejuvenation",
+    "artist": "The Meters"
+  },
+  "album_139": {
+    "rank": 139,
+    "album": "All That You Can't Leave Behind",
+    "artist": "U2"
+  },
+  "album_140": {
+    "rank": 140,
+    "album": "Parallel Lines",
+    "artist": "Blondie"
+  },
+  "album_141": {
+    "rank": 141,
+    "album": "Live at the Regal",
+    "artist": "B.B. King"
+  },
+  "album_142": {
+    "rank": 142,
+    "album": "Phil Spector",
+    "artist": "A Christmas Gift for You, Various Artists"
+  },
+  "album_143": {
+    "rank": 143,
+    "album": "Gris-Gris",
+    "artist": "Dr. John"
+  },
+  "album_144": {
+    "rank": 144,
+    "album": "Straight Outta Compton",
+    "artist": "N.W.A"
+  },
+  "album_145": {
+    "rank": 145,
+    "album": "Aja",
+    "artist": "Steely Dan"
+  },
+  "album_146": {
+    "rank": 146,
+    "album": "Surrealistic Pillow",
+    "artist": "Jefferson Airplane"
+  },
+  "album_147": {
+    "rank": 147,
+    "album": "Dreams to Remember: The Otis Redding Anthology",
+    "artist": "Otis Redding"
+  },
+  "album_148": {
+    "rank": 148,
+    "album": "Deja Vu",
+    "artist": "Crosby Stills Nash and Young"
+  },
+  "album_149": {
+    "rank": 149,
+    "album": "Houses of the Holy",
+    "artist": "Led Zeppelin"
+  },
+  "album_150": {
+    "rank": 150,
+    "album": "Santana",
+    "artist": "Santana"
+  },
+  "album_151": {
+    "rank": 151,
+    "album": "Darkness on the Edge of Town",
+    "artist": "Bruce Springsteen"
+  },
+  "album_152": {
+    "rank": 152,
+    "album": "The B-52's",
+    "artist": "The B-52's"
+  },
+  "album_153": {
+    "rank": 153,
+    "album": "Moanin' in the Moonlight",
+    "artist": "Howlin' Wolf"
+  },
+  "album_154": {
+    "rank": 154,
+    "album": "The Low End Theory",
+    "artist": "A Tribe Called Quest"
+  },
+  "album_155": {
+    "rank": 155,
+    "album": "Pretenders",
+    "artist": "The Pretenders"
+  },
+  "album_156": {
+    "rank": 156,
+    "album": "Paul's Boutique",
+    "artist": "Beastie Boys"
+  },
+  "album_157": {
+    "rank": 157,
+    "album": "Closer",
+    "artist": "Joy Division"
+  },
+  "album_158": {
+    "rank": 158,
+    "album": "Captain Fantastic and the Brown Dirt Cowboy",
+    "artist": "Elton John"
+  },
+  "album_159": {
+    "rank": 159,
+    "album": "Alive",
+    "artist": "Kiss"
+  },
+  "album_160": {
+    "rank": 160,
+    "album": "Electric Warrior",
+    "artist": "T. Rex"
+  },
+  "album_161": {
+    "rank": 161,
+    "album": "The Dock of the Bay",
+    "artist": "Otis Redding"
+  },
+  "album_162": {
+    "rank": 162,
+    "album": "OK Computer",
+    "artist": "Radiohead"
+  },
+  "album_163": {
+    "rank": 163,
+    "album": "1999",
+    "artist": "Prince"
+  },
+  "album_164": {
+    "rank": 164,
+    "album": "Heart Like a Wheel",
+    "artist": "Linda Ronstadt"
+  },
+  "album_165": {
+    "rank": 165,
+    "album": "Let's Get It On",
+    "artist": "Marvin Gaye"
+  },
+  "album_166": {
+    "rank": 166,
+    "album": "Imperial Bedroom ",
+    "artist": "Elvis Costello"
+  },
+  "album_167": {
+    "rank": 167,
+    "album": "Master of Puppets",
+    "artist": "Metallica"
+  },
+  "album_168": {
+    "rank": 168,
+    "album": "My Aim Is True",
+    "artist": "Elvis Costello"
+  },
+  "album_169": {
+    "rank": 169,
+    "album": "Exodus",
+    "artist": "Bob Marley"
+  },
+  "album_170": {
+    "rank": 170,
+    "album": "Live at Leeds",
+    "artist": "The Who"
+  },
+  "album_171": {
+    "rank": 171,
+    "album": "The Notorious Byrd Brothers",
+    "artist": "The Byrds"
+  },
+  "album_172": {
+    "rank": 172,
+    "album": "Every Picture Tells a Story",
+    "artist": "Rod Stewart"
+  },
+  "album_173": {
+    "rank": 173,
+    "album": "Something/Anything?",
+    "artist": "Todd Rundgren"
+  },
+  "album_174": {
+    "rank": 174,
+    "album": "Desire",
+    "artist": "Bob Dylan"
+  },
+  "album_175": {
+    "rank": 175,
+    "album": "Close to You",
+    "artist": "The Carpenters"
+  },
+  "album_176": {
+    "rank": 176,
+    "album": "Rocks",
+    "artist": "Aerosmith"
+  },
+  "album_177": {
+    "rank": 177,
+    "album": "One Nation Under a Groove",
+    "artist": "Parliament/Funkadelic"
+  },
+  "album_178": {
+    "rank": 178,
+    "album": "Greatest Hits",
+    "artist": "The Byrds"
+  },
+  "album_179": {
+    "rank": 179,
+    "album": "The Anthology 1961 - 1977",
+    "artist": "Curtis Mayfield and the Impressions"
+  },
+  "album_180": {
+    "rank": 180,
+    "album": "The Definitive Collection",
+    "artist": "Abba"
+  },
+  "album_181": {
+    "rank": 181,
+    "album": "The Rolling Stones",
+    "artist": "Now!, The Rolling Stones"
+  },
+  "album_182": {
+    "rank": 182,
+    "album": "Natty Dread",
+    "artist": "Bob Marley and the Wailers"
+  },
+  "album_183": {
+    "rank": 183,
+    "album": "Fleetwood Mac",
+    "artist": "Fleetwood Mac"
+  },
+  "album_184": {
+    "rank": 184,
+    "album": "Red Headed Stranger",
+    "artist": "Willie Nelson"
+  },
+  "album_185": {
+    "rank": 185,
+    "album": "The Stooges",
+    "artist": "The Stooges"
+  },
+  "album_186": {
+    "rank": 186,
+    "album": "Fresh",
+    "artist": "Sly and the Family Stone"
+  },
+  "album_187": {
+    "rank": 187,
+    "album": "So",
+    "artist": "Peter Gabriel"
+  },
+  "album_188": {
+    "rank": 188,
+    "album": "Buffalo Springfield Again",
+    "artist": "Buffalo Springfield"
+  },
+  "album_189": {
+    "rank": 189,
+    "album": "Happy Trails",
+    "artist": "Quicksilver Messenger Service"
+  },
+  "album_190": {
+    "rank": 190,
+    "album": "From Elvis in Memphis",
+    "artist": "Elvis Presley"
+  },
+  "album_191": {
+    "rank": 191,
+    "album": "Funhouse",
+    "artist": "The Stooges"
+  },
+  "album_192": {
+    "rank": 192,
+    "album": "The Gilded Palace of Sin",
+    "artist": "The Flying Burrito Brothers"
+  },
+  "album_193": {
+    "rank": 193,
+    "album": "Dookie",
+    "artist": "Green Day"
+  },
+  "album_194": {
+    "rank": 194,
+    "album": "Transformer",
+    "artist": "Lou Reed"
+  },
+  "album_195": {
+    "rank": 195,
+    "album": "Bluesbreakers",
+    "artist": "John Mayall With Eric Clapton"
+  },
+  "album_196": {
+    "rank": 196,
+    "album": "Nuggets: Original Artyfacts from the First Psychedelic Era 1965 - 1968",
+    "artist": "Various Artists"
+  },
+  "album_197": {
+    "rank": 197,
+    "album": "Murmur",
+    "artist": "R.E.M."
+  },
+  "album_198": {
+    "rank": 198,
+    "album": "The Best of",
+    "artist": "Little Walter"
+  },
+  "album_199": {
+    "rank": 199,
+    "album": "Highway to Hell",
+    "artist": "AC/DC"
+  },
+  "album_200": {
+    "rank": 200,
+    "album": "The Downward Spiral",
+    "artist": "Nine Inch Nails"
+  },
+  "album_201": {
+    "rank": 201,
+    "album": "Parsley",
+    "artist": "Sage, Rosemary and Thyme, Simon and Garfunkel"
+  },
+  "album_202": {
+    "rank": 202,
+    "album": "Bad",
+    "artist": "Michael Jackson"
+  },
+  "album_203": {
+    "rank": 203,
+    "album": "Wheels of Fire",
+    "artist": "Cream"
+  },
+  "album_204": {
+    "rank": 204,
+    "album": "Dirty Mind",
+    "artist": "Prince"
+  },
+  "album_205": {
+    "rank": 205,
+    "album": "Abraxas",
+    "artist": "Santana"
+  },
+  "album_206": {
+    "rank": 206,
+    "album": "Tea for the Tillerman",
+    "artist": "Cat Stevens"
+  },
+  "album_207": {
+    "rank": 207,
+    "album": "Ten",
+    "artist": "Pearl Jam"
+  },
+  "album_208": {
+    "rank": 208,
+    "album": "Everybody Knows This Is Nowhere",
+    "artist": "Neil Young With Crazy Horse"
+  },
+  "album_209": {
+    "rank": 209,
+    "album": "Wish You Were Here",
+    "artist": "Pink Floyd"
+  },
+  "album_210": {
+    "rank": 210,
+    "album": "Crooked Rain",
+    "artist": "Crooked Rain, Pavement"
+  },
+  "album_211": {
+    "rank": 211,
+    "album": "Tattoo You",
+    "artist": "The Rolling Stones"
+  },
+  "album_212": {
+    "rank": 212,
+    "album": "Proud Mary: The Best of Ike and Tina Turner",
+    "artist": "Ike and Tina Turner"
+  },
+  "album_213": {
+    "rank": 213,
+    "album": "New York Dolls",
+    "artist": "New York Dolls"
+  },
+  "album_214": {
+    "rank": 214,
+    "album": "Bo Diddley/Go Bo Diddley",
+    "artist": "Bo Diddley"
+  },
+  "album_215": {
+    "rank": 215,
+    "album": "Two Steps From the Blues",
+    "artist": "Bobby Bland"
+  },
+  "album_216": {
+    "rank": 216,
+    "album": "The Queen Is Dead",
+    "artist": "The Smiths"
+  },
+  "album_217": {
+    "rank": 217,
+    "album": "Licensed to Ill",
+    "artist": "Beastie Boys"
+  },
+  "album_218": {
+    "rank": 218,
+    "album": "Look-Ka Py Py",
+    "artist": "The Meters"
+  },
+  "album_219": {
+    "rank": 219,
+    "album": "Loveless",
+    "artist": "My Bloody Valentine"
+  },
+  "album_220": {
+    "rank": 220,
+    "album": "New Orleans Piano",
+    "artist": "Professor Longhair"
+  },
+  "album_221": {
+    "rank": 221,
+    "album": "War",
+    "artist": "U2"
+  },
+  "album_222": {
+    "rank": 222,
+    "album": "The Neil Diamond Collection",
+    "artist": "Neil Diamond"
+  },
+  "album_223": {
+    "rank": 223,
+    "album": "Howlin' Wolf",
+    "artist": "Howlin' Wolf"
+  },
+  "album_224": {
+    "rank": 224,
+    "album": "Nebraska",
+    "artist": "Bruce Springsteen"
+  },
+  "album_225": {
+    "rank": 225,
+    "album": "The Complete Hank Williams",
+    "artist": "Hank Williams"
+  },
+  "album_226": {
+    "rank": 226,
+    "album": "Doolittle",
+    "artist": "Pixies"
+  },
+  "album_227": {
+    "rank": 227,
+    "album": "Paid in Full",
+    "artist": "Eric B. and Rakim"
+  },
+  "album_228": {
+    "rank": 228,
+    "album": "Toys in the Attic",
+    "artist": "Aerosmith"
+  },
+  "album_229": {
+    "rank": 229,
+    "album": "Nick of Time",
+    "artist": "Bonnie Raitt"
+  },
+  "album_230": {
+    "rank": 230,
+    "album": "A Night at the Opera",
+    "artist": "Queen"
+  },
+  "album_231": {
+    "rank": 231,
+    "album": "The Kink Kronikles",
+    "artist": "The Kinks"
+  },
+  "album_232": {
+    "rank": 232,
+    "album": "Mr. Tambourine Man",
+    "artist": "The Byrds"
+  },
+  "album_233": {
+    "rank": 233,
+    "album": "Bookends",
+    "artist": "Simon and Garfunkel"
+  },
+  "album_234": {
+    "rank": 234,
+    "album": "The Ultimate Collection",
+    "artist": "Patsy Cline"
+  },
+  "album_235": {
+    "rank": 235,
+    "album": "Mr. Excitement!",
+    "artist": "Jackie Wilson"
+  },
+  "album_236": {
+    "rank": 236,
+    "album": "The Who Sings My Generation",
+    "artist": "The Who"
+  },
+  "album_237": {
+    "rank": 237,
+    "album": "Like a Prayer",
+    "artist": "Madonna"
+  },
+  "album_238": {
+    "rank": 238,
+    "album": "Can't Buy a Thrill",
+    "artist": "Steely Dan"
+  },
+  "album_239": {
+    "rank": 239,
+    "album": "Let It Be",
+    "artist": "The Replacements"
+  },
+  "album_240": {
+    "rank": 240,
+    "album": "Run-DMC",
+    "artist": "Run-DMC"
+  },
+  "album_241": {
+    "rank": 241,
+    "album": "Black Sabbath",
+    "artist": "Black Sabbath"
+  },
+  "album_242": {
+    "rank": 242,
+    "album": "The Jerry Lee Lewis Anthology: All Killer No Filler!",
+    "artist": "Jerry Lee Lewis"
+  },
+  "album_243": {
+    "rank": 243,
+    "album": "Freak Out!",
+    "artist": "The Mothers of Invention"
+  },
+  "album_244": {
+    "rank": 244,
+    "album": "Live Dead",
+    "artist": "Grateful Dead"
+  },
+  "album_245": {
+    "rank": 245,
+    "album": "Bryter Layter",
+    "artist": "Nick Drake"
+  },
+  "album_246": {
+    "rank": 246,
+    "album": "The Shape of Jazz to Come",
+    "artist": "Ornette Coleman"
+  },
+  "album_247": {
+    "rank": 247,
+    "album": "Automatic for the People",
+    "artist": "R.E.M."
+  },
+  "album_248": {
+    "rank": 248,
+    "album": "Reasonable Doubt",
+    "artist": "Jay-Z"
+  },
+  "album_249": {
+    "rank": 249,
+    "album": "Low",
+    "artist": "David Bowie"
+  },
+  "album_250": {
+    "rank": 250,
+    "album": "The River",
+    "artist": "Bruce Springsteen"
+  },
+  "album_251": {
+    "rank": 251,
+    "album": "The Otis Redding Dictionary of Soul",
+    "artist": "Otis Redding"
+  },
+  "album_252": {
+    "rank": 252,
+    "album": "Metallica",
+    "artist": "Metallica"
+  },
+  "album_253": {
+    "rank": 253,
+    "album": "Trans-Europe Express",
+    "artist": "Kraftwerk"
+  },
+  "album_254": {
+    "rank": 254,
+    "album": "Whitney Houston",
+    "artist": "Whitney Houston"
+  },
+  "album_255": {
+    "rank": 255,
+    "album": "The Kinks Are the Village Green Preservation Society",
+    "artist": "The Kinks"
+  },
+  "album_256": {
+    "rank": 256,
+    "album": "The Velvet Rope",
+    "artist": "Janet Jackson"
+  },
+  "album_257": {
+    "rank": 257,
+    "album": "Stardust",
+    "artist": "Willie Nelson"
+  },
+  "album_258": {
+    "rank": 258,
+    "album": "American Beauty",
+    "artist": "Grateful Dead"
+  },
+  "album_259": {
+    "rank": 259,
+    "album": "Crosby Stills and Nash",
+    "artist": "Crosby Stills and Nash"
+  },
+  "album_260": {
+    "rank": 260,
+    "album": "Buena Vista Social Club ",
+    "artist": "Buena Vista Social Club"
+  },
+  "album_261": {
+    "rank": 261,
+    "album": "Tracy Chapman",
+    "artist": "Tracy Chapman"
+  },
+  "album_262": {
+    "rank": 262,
+    "album": "Workingman's Dead",
+    "artist": "Grateful Dead"
+  },
+  "album_263": {
+    "rank": 263,
+    "album": "The Genius of Ray Charles",
+    "artist": "Ray Charles"
+  },
+  "album_264": {
+    "rank": 264,
+    "album": "Child Is Father to the Man",
+    "artist": "Blood, Sweat and Tears"
+  },
+  "album_265": {
+    "rank": 265,
+    "album": "Cosmo's Factory",
+    "artist": "Creedence Clearwater Revival"
+  },
+  "album_266": {
+    "rank": 266,
+    "album": "Quadrophenia",
+    "artist": "The Who"
+  },
+  "album_267": {
+    "rank": 267,
+    "album": "There Goes Rhymin' Simon",
+    "artist": "Paul Simon"
+  },
+  "album_268": {
+    "rank": 268,
+    "album": "Psycho Candy",
+    "artist": "The Jesus and Mary Chain"
+  },
+  "album_269": {
+    "rank": 269,
+    "album": "Some Girls",
+    "artist": "The Rolling Stones"
+  },
+  "album_270": {
+    "rank": 270,
+    "album": "The Beach Boys Today!",
+    "artist": "The Beach Boys"
+  },
+  "album_271": {
+    "rank": 271,
+    "album": "Going to a Go-Go",
+    "artist": "Smokey Robinson and the Miracles"
+  },
+  "album_272": {
+    "rank": 272,
+    "album": "Nightbirds",
+    "artist": "Labelle"
+  },
+  "album_273": {
+    "rank": 273,
+    "album": "The Slim Shady LP",
+    "artist": "Eminem"
+  },
+  "album_274": {
+    "rank": 274,
+    "album": "Mothership Connection",
+    "artist": "Parliament"
+  },
+  "album_275": {
+    "rank": 275,
+    "album": "Rhythm Nation 1814",
+    "artist": "Janet Jackson"
+  },
+  "album_276": {
+    "rank": 276,
+    "album": "Anthology of American Folk Music",
+    "artist": "Harry Smith, ed."
+  },
+  "album_277": {
+    "rank": 277,
+    "album": "Aladdin Sane",
+    "artist": "David Bowie"
+  },
+  "album_278": {
+    "rank": 278,
+    "album": "The Immaculate Collection",
+    "artist": "Madonna"
+  },
+  "album_279": {
+    "rank": 279,
+    "album": "My Life",
+    "artist": "Mary J. Blige"
+  },
+  "album_280": {
+    "rank": 280,
+    "album": "Folk Singer",
+    "artist": "Muddy Waters"
+  },
+  "album_281": {
+    "rank": 281,
+    "album": "Can't Get Enough",
+    "artist": "Barry White"
+  },
+  "album_282": {
+    "rank": 282,
+    "album": "The Cars",
+    "artist": "The Cars"
+  },
+  "album_283": {
+    "rank": 283,
+    "album": "Five Leaves Left",
+    "artist": "Nick Drake"
+  },
+  "album_284": {
+    "rank": 284,
+    "album": "Music of My Mind",
+    "artist": "Stevie Wonder"
+  },
+  "album_285": {
+    "rank": 285,
+    "album": "I'm Still in Love With You",
+    "artist": "Al Green"
+  },
+  "album_286": {
+    "rank": 286,
+    "album": "Los Angeles",
+    "artist": "X"
+  },
+  "album_287": {
+    "rank": 287,
+    "album": "Anthem of the Sun",
+    "artist": "Grateful Dead"
+  },
+  "album_288": {
+    "rank": 288,
+    "album": "Something Else by the Kinks",
+    "artist": "The Kinks"
+  },
+  "album_289": {
+    "rank": 289,
+    "album": "Call Me",
+    "artist": "Al Green"
+  },
+  "album_290": {
+    "rank": 290,
+    "album": "Talking Heads: 77",
+    "artist": "Talking Heads"
+  },
+  "album_291": {
+    "rank": 291,
+    "album": "The Basement Tapes",
+    "artist": "Bob Dylan and the Band"
+  },
+  "album_292": {
+    "rank": 292,
+    "album": "White Light / White Heat",
+    "artist": "The Velvet Underground"
+  },
+  "album_293": {
+    "rank": 293,
+    "album": "Greatest Hits",
+    "artist": "Simon and Garfunkel"
+  },
+  "album_294": {
+    "rank": 294,
+    "album": "Kick Out the Jams",
+    "artist": "MC5"
+  },
+  "album_295": {
+    "rank": 295,
+    "album": "Meat Is Murder",
+    "artist": "The Smiths"
+  },
+  "album_296": {
+    "rank": 296,
+    "album": "We're Only In It For the Money",
+    "artist": "The Mothers of Invention"
+  },
+  "album_297": {
+    "rank": 297,
+    "album": "Weezer (Blue Album)",
+    "artist": "Weezer"
+  },
+  "album_298": {
+    "rank": 298,
+    "album": "Master of Reality",
+    "artist": "Black Sabbath"
+  },
+  "album_299": {
+    "rank": 299,
+    "album": "Coat of Many Colors",
+    "artist": "Dolly Parton"
+  },
+  "album_300": {
+    "rank": 300,
+    "album": "Fear of a Black Planet",
+    "artist": "Public Enemy"
+  },
+  "album_301": {
+    "rank": 301,
+    "album": "John Wesley Harding",
+    "artist": "Bob Dylan"
+  },
+  "album_302": {
+    "rank": 302,
+    "album": "The Marshall Mathers LP",
+    "artist": "Eminem"
+  },
+  "album_303": {
+    "rank": 303,
+    "album": "Grace",
+    "artist": "Jeff Buckley"
+  },
+  "album_304": {
+    "rank": 304,
+    "album": "Car Wheels on a Gravel Road",
+    "artist": "Lucinda Williams"
+  },
+  "album_305": {
+    "rank": 305,
+    "album": "Odelay",
+    "artist": "Beck"
+  },
+  "album_306": {
+    "rank": 306,
+    "album": "Songs for Swingin' Lovers",
+    "artist": "Frank Sinatra"
+  },
+  "album_307": {
+    "rank": 307,
+    "album": "Avalon",
+    "artist": "Roxy Music"
+  },
+  "album_308": {
+    "rank": 308,
+    "album": "The Sun Records Collection",
+    "artist": "Various Artists"
+  },
+  "album_309": {
+    "rank": 309,
+    "album": "Nothing's Shocking",
+    "artist": "Jane's Addiction"
+  },
+  "album_310": {
+    "rank": 310,
+    "album": "BloodSugarSexMagik",
+    "artist": "Red Hot Chili Peppers"
+  },
+  "album_311": {
+    "rank": 311,
+    "album": "Unplugged in New York",
+    "artist": "Nirvana"
+  },
+  "album_312": {
+    "rank": 312,
+    "album": "The Miseducation of Lauryn Hill",
+    "artist": "Lauryn Hill"
+  },
+  "album_313": {
+    "rank": 313,
+    "album": "Damn the Torpedoes",
+    "artist": "Tom Petty and the Heartbreakers"
+  },
+  "album_314": {
+    "rank": 314,
+    "album": "The Velvet Underground",
+    "artist": "The Velvet Underground"
+  },
+  "album_315": {
+    "rank": 315,
+    "album": "Surfer Rosa",
+    "artist": "Pixies"
+  },
+  "album_316": {
+    "rank": 316,
+    "album": "Rock Steady",
+    "artist": "No Doubt"
+  },
+  "album_317": {
+    "rank": 317,
+    "album": "The Eminem Show",
+    "artist": "Eminem"
+  },
+  "album_318": {
+    "rank": 318,
+    "album": "Back Stabbers",
+    "artist": "The O'Jays"
+  },
+  "album_319": {
+    "rank": 319,
+    "album": "Burnin'",
+    "artist": "Bob Marley and the Wailers"
+  },
+  "album_320": {
+    "rank": 320,
+    "album": "Pink Moon",
+    "artist": "Nick Drake"
+  },
+  "album_321": {
+    "rank": 321,
+    "album": "Sail Away",
+    "artist": "Randy Newman"
+  },
+  "album_322": {
+    "rank": 322,
+    "album": "Ghost in the Machine",
+    "artist": "The Police"
+  },
+  "album_323": {
+    "rank": 323,
+    "album": "Station to Station",
+    "artist": "David Bowie"
+  },
+  "album_324": {
+    "rank": 324,
+    "album": "The Very Best of Linda Ronstadt",
+    "artist": "Linda Ronstadt"
+  },
+  "album_325": {
+    "rank": 325,
+    "album": "Slowhand",
+    "artist": "Eric Clapton"
+  },
+  "album_326": {
+    "rank": 326,
+    "album": "Disintegration",
+    "artist": "The Cure"
+  },
+  "album_327": {
+    "rank": 327,
+    "album": "Jagged Little Pill",
+    "artist": "Alanis Morissette"
+  },
+  "album_328": {
+    "rank": 328,
+    "album": "Exile in Guyville",
+    "artist": "Liz Phair"
+  },
+  "album_329": {
+    "rank": 329,
+    "album": "Daydream Nation",
+    "artist": "Sonic Youth"
+  },
+  "album_330": {
+    "rank": 330,
+    "album": "In the Jungle Groove",
+    "artist": "James Brown"
+  },
+  "album_331": {
+    "rank": 331,
+    "album": "Tonight's the Night",
+    "artist": "Neil Young"
+  },
+  "album_332": {
+    "rank": 332,
+    "album": "Help!",
+    "artist": "The Beatles"
+  },
+  "album_333": {
+    "rank": 333,
+    "album": "Shoot Out the Lights",
+    "artist": "Richard and Linda Thompson"
+  },
+  "album_334": {
+    "rank": 334,
+    "album": "Wild Gift",
+    "artist": "X"
+  },
+  "album_335": {
+    "rank": 335,
+    "album": "Squeezing Out Sparks",
+    "artist": "Graham Parker"
+  },
+  "album_336": {
+    "rank": 336,
+    "album": "Superunknown",
+    "artist": "Soundgarden"
+  },
+  "album_337": {
+    "rank": 337,
+    "album": "Aqualung",
+    "artist": "Jethro Tull"
+  },
+  "album_338": {
+    "rank": 338,
+    "album": "Cheap Thrills",
+    "artist": "Big Brother and the Holding Company"
+  },
+  "album_339": {
+    "rank": 339,
+    "album": "The Heart of Saturday Night",
+    "artist": "Tom Waits"
+  },
+  "album_340": {
+    "rank": 340,
+    "album": "Damaged",
+    "artist": "Black Flag"
+  },
+  "album_341": {
+    "rank": 341,
+    "album": "Play",
+    "artist": "Moby"
+  },
+  "album_342": {
+    "rank": 342,
+    "album": "Violator",
+    "artist": "Depeche Mode"
+  },
+  "album_343": {
+    "rank": 343,
+    "album": "Bat Out of Hell",
+    "artist": "Meat Loaf"
+  },
+  "album_344": {
+    "rank": 344,
+    "album": "Berlin",
+    "artist": "Lou Reed"
+  },
+  "album_345": {
+    "rank": 345,
+    "album": "Stop Making Sense",
+    "artist": "Talking Heads"
+  },
+  "album_346": {
+    "rank": 346,
+    "album": "3 Feet High and Rising",
+    "artist": "De La Soul"
+  },
+  "album_347": {
+    "rank": 347,
+    "album": "The Piper at the Gates of Dawn",
+    "artist": "Pink Floyd"
+  },
+  "album_348": {
+    "rank": 348,
+    "album": "At Newport 1960",
+    "artist": "Muddy Waters"
+  },
+  "album_349": {
+    "rank": 349,
+    "album": "Roger the Engineer (a.k.a. Over Under Sideways Down)",
+    "artist": "The Yardbirds"
+  },
+  "album_350": {
+    "rank": 350,
+    "album": "Rust Never Sleeps",
+    "artist": "Neil Young and Crazy Horse"
+  },
+  "album_351": {
+    "rank": 351,
+    "album": "Brothers in Arms",
+    "artist": "Dire Straits"
+  },
+  "album_352": {
+    "rank": 352,
+    "album": "52nd Street",
+    "artist": "Billy Joel"
+  },
+  "album_353": {
+    "rank": 353,
+    "album": "Having a Rave Up With the Yardbirds",
+    "artist": "The Yardbirds"
+  },
+  "album_354": {
+    "rank": 354,
+    "album": "12 Songs",
+    "artist": "Randy Newman"
+  },
+  "album_355": {
+    "rank": 355,
+    "album": "Between the Buttons",
+    "artist": "The Rolling Stones"
+  },
+  "album_356": {
+    "rank": 356,
+    "album": "Sketches of Spain",
+    "artist": "Miles Davis"
+  },
+  "album_357": {
+    "rank": 357,
+    "album": "Honky Chateau",
+    "artist": "Elton John"
+  },
+  "album_358": {
+    "rank": 358,
+    "album": "Singles Going Steady",
+    "artist": "Buzzcocks"
+  },
+  "album_359": {
+    "rank": 359,
+    "album": "Stankonia",
+    "artist": "Outkast"
+  },
+  "album_360": {
+    "rank": 360,
+    "album": "Siamese Dream",
+    "artist": "The Smashing Pumpkins"
+  },
+  "album_361": {
+    "rank": 361,
+    "album": "Substance",
+    "artist": "New Order"
+  },
+  "album_362": {
+    "rank": 362,
+    "album": "L.A. Woman",
+    "artist": "The Doors"
+  },
+  "album_363": {
+    "rank": 363,
+    "album": "Ray of Light",
+    "artist": "Madonna"
+  },
+  "album_364": {
+    "rank": 364,
+    "album": "American Recordings",
+    "artist": "Johnny Cash"
+  },
+  "album_365": {
+    "rank": 365,
+    "album": "Louder Than Bombs",
+    "artist": "The Smiths"
+  },
+  "album_366": {
+    "rank": 366,
+    "album": "Mott",
+    "artist": "Mott the Hoople"
+  },
+  "album_367": {
+    "rank": 367,
+    "album": "Is This It",
+    "artist": "The Strokes"
+  },
+  "album_368": {
+    "rank": 368,
+    "album": "Rage Against the Machine",
+    "artist": "Rage Against the Machine"
+  },
+  "album_369": {
+    "rank": 369,
+    "album": "Reggatta de Blanc",
+    "artist": "The Police"
+  },
+  "album_370": {
+    "rank": 370,
+    "album": "Volunteers",
+    "artist": "Jefferson Airplane"
+  },
+  "album_371": {
+    "rank": 371,
+    "album": "Siren",
+    "artist": "Roxy Music"
+  },
+  "album_372": {
+    "rank": 372,
+    "album": "Late for the Sky",
+    "artist": "Jackson Browne"
+  },
+  "album_373": {
+    "rank": 373,
+    "album": "Post",
+    "artist": "Bjork"
+  },
+  "album_374": {
+    "rank": 374,
+    "album": "The Eagles",
+    "artist": "The Eagles"
+  },
+  "album_375": {
+    "rank": 375,
+    "album": "The Ultimate Collection (1948 - 1990)",
+    "artist": "John Lee Hooker"
+  },
+  "album_376": {
+    "rank": 376,
+    "album": "(What's the Story) Morning Glory?",
+    "artist": "Oasis"
+  },
+  "album_377": {
+    "rank": 377,
+    "album": "CrazySexyCool",
+    "artist": "TLC"
+  },
+  "album_378": {
+    "rank": 378,
+    "album": "Funky Kingston",
+    "artist": "Toots and the Maytals"
+  },
+  "album_379": {
+    "rank": 379,
+    "album": "Greetings from Asbury Park",
+    "artist": "Bruce Springsteen"
+  },
+  "album_380": {
+    "rank": 380,
+    "album": "Sunflower",
+    "artist": "The Beach Boys"
+  },
+  "album_381": {
+    "rank": 381,
+    "album": "Modern Lovers",
+    "artist": "Modern Lovers"
+  },
+  "album_382": {
+    "rank": 382,
+    "album": "More Songs About Buildings and Food",
+    "artist": "Talking Heads"
+  },
+  "album_383": {
+    "rank": 383,
+    "album": "A Quick One (Happy Jack)",
+    "artist": "The Who"
+  },
+  "album_384": {
+    "rank": 384,
+    "album": "Pyromania",
+    "artist": "Def Leppard"
+  },
+  "album_385": {
+    "rank": 385,
+    "album": "Pretzel Logic",
+    "artist": "Steely Dan"
+  },
+  "album_386": {
+    "rank": 386,
+    "album": "Enter the Wu-Tang: 36 Chambers",
+    "artist": "Wu-Tang Clan"
+  },
+  "album_387": {
+    "rank": 387,
+    "album": "Country Life",
+    "artist": "Roxy Music"
+  },
+  "album_388": {
+    "rank": 388,
+    "album": "A Hard Day's Night",
+    "artist": "The Beatles"
+  },
+  "album_389": {
+    "rank": 389,
+    "album": "The End of the Innocence",
+    "artist": "Don Henley"
+  },
+  "album_390": {
+    "rank": 390,
+    "album": "Elephant",
+    "artist": "The White Stripes"
+  },
+  "album_391": {
+    "rank": 391,
+    "album": "The Pretender",
+    "artist": "Jackson Browne"
+  },
+  "album_392": {
+    "rank": 392,
+    "album": "Willy and the Poor Boys",
+    "artist": "Creedence Clearwater Revival"
+  },
+  "album_393": {
+    "rank": 393,
+    "album": "Good Old Boys",
+    "artist": "Randy Newman"
+  },
+  "album_394": {
+    "rank": 394,
+    "album": "For Your Pleasure",
+    "artist": "Roxy Music"
+  },
+  "album_395": {
+    "rank": 395,
+    "album": "Blue Lines",
+    "artist": "Massive Attack"
+  },
+  "album_396": {
+    "rank": 396,
+    "album": "Eliminator",
+    "artist": "ZZ Top"
+  },
+  "album_397": {
+    "rank": 397,
+    "album": "Rain Dogs",
+    "artist": "Tom Waits"
+  },
+  "album_398": {
+    "rank": 398,
+    "album": "Anthology",
+    "artist": "The Temptations"
+  },
+  "album_399": {
+    "rank": 399,
+    "album": "Californication",
+    "artist": "Red Hot Chili Peppers"
+  },
+  "album_400": {
+    "rank": 400,
+    "album": "Illmatic",
+    "artist": "Nas"
+  },
+  "album_401": {
+    "rank": 401,
+    "album": "(Pronounced Leh-Nerd Skin-Nerd)",
+    "artist": "Lynyrd Skynyrd "
+  },
+  "album_402": {
+    "rank": 402,
+    "album": "Dr. John's Gumbo",
+    "artist": "Dr. John"
+  },
+  "album_403": {
+    "rank": 403,
+    "album": "Radio City",
+    "artist": "Big Star"
+  },
+  "album_404": {
+    "rank": 404,
+    "album": "Sandinista!",
+    "artist": "The Clash"
+  },
+  "album_405": {
+    "rank": 405,
+    "album": "Rid of Me",
+    "artist": "PJ Harvey"
+  },
+  "album_406": {
+    "rank": 406,
+    "album": "I Do Not Want What I Haven't Got",
+    "artist": "Sinead O' Connor"
+  },
+  "album_407": {
+    "rank": 407,
+    "album": "Strange Days",
+    "artist": "The Doors"
+  },
+  "album_408": {
+    "rank": 408,
+    "album": "Time Out of Mind",
+    "artist": "Bob Dylan"
+  },
+  "album_409": {
+    "rank": 409,
+    "album": "461 Ocean Boulevard",
+    "artist": "Eric Clapton"
+  },
+  "album_410": {
+    "rank": 410,
+    "album": "Pink Flag",
+    "artist": "Wire"
+  },
+  "album_411": {
+    "rank": 411,
+    "album": "Double Nickels on the Dime",
+    "artist": "Minutemen"
+  },
+  "album_412": {
+    "rank": 412,
+    "album": "Mezzanine",
+    "artist": "Massive Attack"
+  },
+  "album_413": {
+    "rank": 413,
+    "album": "Beauty and the Beat",
+    "artist": "Go-Go's"
+  },
+  "album_414": {
+    "rank": 414,
+    "album": "Greatest Hits",
+    "artist": "James Brown"
+  },
+  "album_415": {
+    "rank": 415,
+    "album": "Van Halen ",
+    "artist": "Van Halen"
+  },
+  "album_416": {
+    "rank": 416,
+    "album": "Mule Variations",
+    "artist": "Tom Waits"
+  },
+  "album_417": {
+    "rank": 417,
+    "album": "Boy",
+    "artist": "U2"
+  },
+  "album_418": {
+    "rank": 418,
+    "album": "Band on the Run",
+    "artist": "Wings"
+  },
+  "album_419": {
+    "rank": 419,
+    "album": "Dummy",
+    "artist": "Portishead"
+  },
+  "album_420": {
+    "rank": 420,
+    "album": "With the Beatles",
+    "artist": "The Beatles"
+  },
+  "album_421": {
+    "rank": 421,
+    "album": "The \"Chirping\" Crickets",
+    "artist": "Buddy Holly and the Crickets"
+  },
+  "album_422": {
+    "rank": 422,
+    "album": "The Best of the Girl Groups, Volumes 1 and 2",
+    "artist": "Various Artists"
+  },
+  "album_423": {
+    "rank": 423,
+    "album": "Greatest Hits",
+    "artist": "The Mamas and the Papas"
+  },
+  "album_424": {
+    "rank": 424,
+    "album": "King of the Delta Blues Singers",
+    "artist": "Vol. 2, Robert Johnson"
+  },
+  "album_425": {
+    "rank": 425,
+    "album": "Changesone",
+    "artist": "David Bowie"
+  },
+  "album_426": {
+    "rank": 426,
+    "album": "The Battle of Los Angeles",
+    "artist": "Rage Against the Machine"
+  },
+  "album_427": {
+    "rank": 427,
+    "album": "Presenting the Fabulous Ronettes Featuring Veronica",
+    "artist": "The Ronettes"
+  },
+  "album_428": {
+    "rank": 428,
+    "album": "Kid A",
+    "artist": "Radiohead"
+  },
+  "album_429": {
+    "rank": 429,
+    "album": "Grievous Angel",
+    "artist": "Gram Parsons"
+  },
+  "album_430": {
+    "rank": 430,
+    "album": "At Budokan",
+    "artist": "Cheap Trick"
+  },
+  "album_431": {
+    "rank": 431,
+    "album": "Anthology",
+    "artist": "Diana Ross and the Supremes"
+  },
+  "album_432": {
+    "rank": 432,
+    "album": "Sleepless",
+    "artist": "Peter Wolf"
+  },
+  "album_433": {
+    "rank": 433,
+    "album": "Another Green World",
+    "artist": "Brian Eno"
+  },
+  "album_434": {
+    "rank": 434,
+    "album": "Outlandos D'Amour",
+    "artist": "The Police"
+  },
+  "album_435": {
+    "rank": 435,
+    "album": "To Bring You My Love",
+    "artist": "PJ Harvey"
+  },
+  "album_436": {
+    "rank": 436,
+    "album": "Here Come the Warm Jets",
+    "artist": "Brian Eno"
+  },
+  "album_437": {
+    "rank": 437,
+    "album": "All Things Must Pass",
+    "artist": "George Harrison"
+  },
+  "album_438": {
+    "rank": 438,
+    "album": "#1 Record",
+    "artist": "Big Star"
+  },
+  "album_439": {
+    "rank": 439,
+    "album": "In Utero",
+    "artist": "Nirvana"
+  },
+  "album_440": {
+    "rank": 440,
+    "album": "Sea Change",
+    "artist": "Beck"
+  },
+  "album_441": {
+    "rank": 441,
+    "album": "Tragic Kingdom",
+    "artist": "No Doubt"
+  },
+  "album_442": {
+    "rank": 442,
+    "album": "Boys Don't Cry",
+    "artist": "The Cure"
+  },
+  "album_443": {
+    "rank": 443,
+    "album": "Live at the Harlem Square Club",
+    "artist": "1963, Sam Cooke"
+  },
+  "album_444": {
+    "rank": 444,
+    "album": "Criminal Minded",
+    "artist": "Boogie Down Productions"
+  },
+  "album_445": {
+    "rank": 445,
+    "album": "Rum Sodomy and the Lash",
+    "artist": "The Pogues"
+  },
+  "album_446": {
+    "rank": 446,
+    "album": "Suicide",
+    "artist": "Suicide"
+  },
+  "album_447": {
+    "rank": 447,
+    "album": "Q: Are We Not Men? A: We Are Devo!",
+    "artist": "Devo"
+  },
+  "album_448": {
+    "rank": 448,
+    "album": "In Color",
+    "artist": "Cheap Trick"
+  },
+  "album_449": {
+    "rank": 449,
+    "album": "The World Is a Ghetto",
+    "artist": "War"
+  },
+  "album_450": {
+    "rank": 450,
+    "album": "Fly Like an Eagle",
+    "artist": "Steve Miller Band"
+  },
+  "album_451": {
+    "rank": 451,
+    "album": "Back in the USA",
+    "artist": "MC5"
+  },
+  "album_452": {
+    "rank": 452,
+    "album": "Music",
+    "artist": "Madonna"
+  },
+  "album_453": {
+    "rank": 453,
+    "album": "Ritual de lo Habitual",
+    "artist": "Jane's Addiction"
+  },
+  "album_454": {
+    "rank": 454,
+    "album": "Getz/Gilberto",
+    "artist": "Stan Getz and Joao Gilberto Featuring Antonio Carlos Jobim"
+  },
+  "album_455": {
+    "rank": 455,
+    "album": "Synchronicity",
+    "artist": "The Police"
+  },
+  "album_456": {
+    "rank": 456,
+    "album": "Third/Sister Lovers",
+    "artist": "Big Star"
+  },
+  "album_457": {
+    "rank": 457,
+    "album": "For Everyman",
+    "artist": "Jackson Browne"
+  },
+  "album_458": {
+    "rank": 458,
+    "album": "John Prine",
+    "artist": "John Prine"
+  },
+  "album_459": {
+    "rank": 459,
+    "album": "Strictly Business",
+    "artist": "EPMD"
+  },
+  "album_460": {
+    "rank": 460,
+    "album": "Love It to Death",
+    "artist": "Alice Cooper"
+  },
+  "album_461": {
+    "rank": 461,
+    "album": "How Will the Wolf Survive?",
+    "artist": "Los Lobos"
+  },
+  "album_462": {
+    "rank": 462,
+    "album": "Here",
+    "artist": "My Dear, Marvin Gaye"
+  },
+  "album_463": {
+    "rank": 463,
+    "album": "Tumbleweed Connection",
+    "artist": "Elton John"
+  },
+  "album_464": {
+    "rank": 464,
+    "album": "The Blueprint",
+    "artist": "Jay-Z"
+  },
+  "album_465": {
+    "rank": 465,
+    "album": "Golden Hits",
+    "artist": "The Drifters"
+  },
+  "album_466": {
+    "rank": 466,
+    "album": "Live Through This",
+    "artist": "Hole"
+  },
+  "album_467": {
+    "rank": 467,
+    "album": "Love and Theft",
+    "artist": "Bob Dylan"
+  },
+  "album_468": {
+    "rank": 468,
+    "album": "Elton John",
+    "artist": "Elton John"
+  },
+  "album_469": {
+    "rank": 469,
+    "album": "Metal Box",
+    "artist": "Public Image Ltd."
+  },
+  "album_470": {
+    "rank": 470,
+    "album": "Document",
+    "artist": "R.E.M."
+  },
+  "album_471": {
+    "rank": 471,
+    "album": "Heaven Up Here",
+    "artist": "Echo and the Bunnymen"
+  },
+  "album_472": {
+    "rank": 472,
+    "album": "Hysteria",
+    "artist": "Def Leppard"
+  },
+  "album_473": {
+    "rank": 473,
+    "album": "A Rush of Blood to the Head",
+    "artist": "Coldplay"
+  },
+  "album_474": {
+    "rank": 474,
+    "album": "Live in Europe",
+    "artist": "Otis Redding"
+  },
+  "album_475": {
+    "rank": 475,
+    "album": "Tunnel of Love",
+    "artist": "Bruce Springsteen"
+  },
+  "album_476": {
+    "rank": 476,
+    "album": "The Paul Butterfield Blues Band",
+    "artist": "The Paul Butterfield Blues Band"
+  },
+  "album_477": {
+    "rank": 477,
+    "album": "The Score",
+    "artist": "Fugees"
+  },
+  "album_478": {
+    "rank": 478,
+    "album": "Radio",
+    "artist": "LL Cool J"
+  },
+  "album_479": {
+    "rank": 479,
+    "album": "I Want to See the Bright Lights Tonight",
+    "artist": "Richard and Linda Thompson"
+  },
+  "album_480": {
+    "rank": 480,
+    "album": "Faith",
+    "artist": "George Michael"
+  },
+  "album_481": {
+    "rank": 481,
+    "album": "The Smiths",
+    "artist": "The Smiths"
+  },
+  "album_482": {
+    "rank": 482,
+    "album": "Armed Forces",
+    "artist": "Elvis Costello and the Attractions"
+  },
+  "album_483": {
+    "rank": 483,
+    "album": "Life After Death",
+    "artist": "The Notorious B.I.G."
+  },
+  "album_484": {
+    "rank": 484,
+    "album": "Branded Man",
+    "artist": "Merle Haggard"
+  },
+  "album_485": {
+    "rank": 485,
+    "album": "All Time Greatest Hits",
+    "artist": "Loretta Lynn"
+  },
+  "album_486": {
+    "rank": 486,
+    "album": "Maggot Brain",
+    "artist": "Funkadelic"
+  },
+  "album_487": {
+    "rank": 487,
+    "album": "Mellon Collie and the Infinite Sadness",
+    "artist": "The Smashing Pumpkins"
+  },
+  "album_488": {
+    "rank": 488,
+    "album": "Voodoo",
+    "artist": "D'Angelo"
+  },
+  "album_489": {
+    "rank": 489,
+    "album": "Guitar Town",
+    "artist": "Steve Earle"
+  },
+  "album_490": {
+    "rank": 490,
+    "album": "Entertainment!",
+    "artist": "Gang of Four"
+  },
+  "album_491": {
+    "rank": 491,
+    "album": "All the Young Dudes",
+    "artist": "Mott the Hoople"
+  },
+  "album_492": {
+    "rank": 492,
+    "album": "Vitalogy",
+    "artist": "Pearl Jam"
+  },
+  "album_493": {
+    "rank": 493,
+    "album": "That's the Way of the World, Earth",
+    "artist": "Wind and Fire"
+  },
+  "album_494": {
+    "rank": 494,
+    "album": "She's So Unusual",
+    "artist": "Cyndi Lauper"
+  },
+  "album_495": {
+    "rank": 495,
+    "album": "New Day Rising",
+    "artist": "Husker Du"
+  },
+  "album_496": {
+    "rank": 496,
+    "album": "Destroyer",
+    "artist": "Kiss"
+  },
+  "album_497": {
+    "rank": 497,
+    "album": "Yo! Bum Rush the Show",
+    "artist": "Public Enemy"
+  },
+  "album_498": {
+    "rank": 498,
+    "album": "Tres Hombres",
+    "artist": "ZZ Top"
+  },
+  "album_499": {
+    "rank": 499,
+    "album": "Born Under a Bad Sign",
+    "artist": "Albert King"
+  },
+  "album_500": {
+    "rank": 500,
+    "album": "Touch",
+    "artist": "Eurythmics"
+  }
+}

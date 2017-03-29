@@ -1,0 +1,19 @@
+machine:
+  pre:
+    - curl -sSL https://s3.amazonaws.com/circle-downloads/install-circleci-docker.sh | bash -s -- 1.10.0
+  services:
+    - docker
+dependencies:
+  override:
+    - sudo curl -L "https://github.com/docker/compose/releases/download/1.9.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+    - sudo chmod 0755 /usr/local/bin/docker-compose
+    
+test:
+  override:
+    - docker-compose -f docker-compose.test.yml run scheduling
+
+deployment:
+  production:
+    branch: master
+    heroku:
+      appname: repairly-scheduling
